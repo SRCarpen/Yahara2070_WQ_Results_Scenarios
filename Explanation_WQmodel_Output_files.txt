@@ -1,0 +1,244 @@
+This file contains a description of the annual statistics and contents 
+of the CSV files created for each of the 16 (4x4) factorial simulations. 
+
+All statistics are given for the water year, defined as 1 Nov - 31 Oct.
+
+M. Motew December 2015 
+Water Sustainability and Climate
+
+---------File Descriptions----------
+
+File name:  Land use identifier followed by climate identifier.
+     	    Example: AINW.csv corresponds to land use, nutrients 
+	    and technology of AI, and climate and CO2 of NW. 
+
+COLUMN  1: water year
+COLUMN  2: annual precipitation (mm)
+COLUMM  3: percent of annual precipitation occurring in meteorological spring, Mar-May (%)
+COLUMN  4: maximum daily precipitation (mm)
+COLUMN  5: Number of days with rainfall exceeding 25mm
+COLUMN  6: Number of days with rainfall exceeding 50mm
+COLUMN  7: Number of days with rainfall exceeding 75mm
+COLUMN  8: Maximum number of consecutive days with precip < 0.001mm
+COLUMN  9: Mean number of days between rain events
+COLUMN 10: Maximum number of dry days defined as <5% of normal
+COLUMN 11: Number of weeks with rainfall exceeding 75mm
+COLUMN 12: Number of weeks with rainfall exceeding 100mm
+COLUMN 13: Number of weeks with rainfall exceeding 125mm
+COLUMN 14: Growing degree days, base 10C
+COLUMN 15: Growing season length, defined as the number 
+       	   of days between the last spring and first fall freeze.
+COLUMN 16: Spring onset, defined as the day of the year when
+       	   10-day running mean temperature exceeds 10C (50F).
+COLUMN 17: % of Mendota watershed with land cover = alfalfa
+COLUMN 18: % of Mendota watershed with land cover = corn
+COLUMN 19: % of Mendota watershed with land cover = soy
+COLUMN 20: % of Mendota watershed with land cover = hay or pasture
+COLUMN 21: % of Mendota watershed with land cover = grass
+COLUMN 22: % of Mendota watershed with land cover = forest
+COLUMN 23: % of Mendota watershed with land cover = wetland
+COLUMN 24: % of Mendota watershed with land cover = high, medium or low intensity development
+COLUMN 25: % of Monona watershed with land cover = alfalfa
+COLUMN 26: % of Monona watershed with land cover = corn
+COLUMN 27: % of Monona watershed with land cover = soy
+COLUMN 28: % of Monona watershed with land cover = hay or pasture
+COLUMN 29: % of Monona watershed with land cover = grass
+COLUMN 30: % of Monona watershed with land cover = forest
+COLUMN 31: % of Monona watershed with land cover = wetland
+COLUMN 32: % of Monona watershed with land cover = high, medium or low intensity development
+COLUMN 33: % of Waubesa watershed with land cover = alfalfa
+COLUMN 34: % of Waubesa watershed with land cover = corn
+COLUMN 35: % of Waubesa watershed with land cover = soy
+COLUMN 36: % of Waubesa watershed with land cover = hay or pasture
+COLUMN 37: % of Waubesa watershed with land cover = grass
+COLUMN 38: % of Waubesa watershed with land cover = forest
+COLUMN 39: % of Waubesa watershed with land cover = wetland
+COLUMN 40: % of Waubesa watershed with land cover = high, medium or low intensity development
+COLUMN 41: % of Kegonsa watershed with land cover = alfalfa
+COLUMN 42: % of Kegonsa watershed with land cover = corn
+COLUMN 43: % of Kegonsa watershed with land cover = soy
+COLUMN 44: % of Kegonsa watershed with land cover = hay or pasture
+COLUMN 45: % of Kegonsa watershed with land cover = grass
+COLUMN 46: % of Kegonsa watershed with land cover = forest
+COLUMN 47: % of Kegonsa watershed with land cover = wetland
+COLUMN 48: % of Kegonsa watershed with land cover = high, medium or low intensity development
+COLUMN 49: Total manure P applied in the Mendota watershed (kg)
+COLUMN 50: Total fertilizer P applied in the Mendota watershed (kg)
+COLUMN 51: Mean manure P application rate for areas receiving manure 
+       	   in the Mendota watershed (kg/ha)
+COLUMN 52: Median manure P application rate for areas 
+       	   receiving manure in the Mendota watershed (kg/ha)
+COLUMN 53: 25th percentile of manure P application rate for areas 
+       	   receiving manure in the Mendota watershed (kg/ha)
+COLUMN 54: 75th percentile of manure P application rate for areas 
+       	   receiving manure in the Mendota watershed (kg/ha)
+COLUMN 55: 90th percentile of manure P application rate for areas 
+       	   receiving manure in the Mendota watershed (kg/ha)
+COLUMN 56: Mean fertilizer P application rate for areas receiving fertilizer
+       	   in the Mendota watershed (kg/ha)
+COLUMN 57: Median fertilizer P application rate for areas 
+       	   receiving fertilizer in the Mendota watershed (kg/ha)
+COLUMN 58: 25th percentile of fertilizer P application rate for areas 
+       	   receiving fertilizer in the Mendota watershed (kg/ha)
+COLUMN 59: 75th percentile of fertilizer P application rate for areas 
+       	   receiving fertilizer in the Mendota watershed (kg/ha)
+COLUMN 60: 90th percentile of fertilizer P application rate for areas 
+       	   receiving fertilizer in the Mendota watershed (kg/ha)
+COLUMN 61: Total manure P applied in the Monona watershed (kg)
+COLUMN 62: Total fertilizer P applied in the Monona watershed (kg)
+COLUMN 63: Mean manure P application rate for areas receiving manure 
+       	   in the Monona watershed (kg/ha)
+COLUMN 64: Median manure P application rate for areas 
+       	   receiving manure in the Monona watershed (kg/ha)
+COLUMN 65: 25th percentile of manure P application rate for areas 
+       	   receiving manure in the Monona watershed (kg/ha)
+COLUMN 66: 75th percentile of manure P application rate for areas 
+       	   receiving manure in the Monona watershed (kg/ha)
+COLUMN 67: 90th percentile of manure P application rate for areas 
+       	   receiving manure in the Monona watershed (kg/ha)
+COLUMN 68: Mean fertilizer P application rate for areas receiving fertilizer
+       	   in the Monona watershed (kg/ha)
+COLUMN 69: Median fertilizer P application rate for areas 
+       	   receiving fertilizer in the Monona watershed (kg/ha)
+COLUMN 70: 25th percentile of fertilizer P application rate for areas 
+       	   receiving fertilizer in the Monona watershed (kg/ha)
+COLUMN 71: 75th percentile of fertilizer P application rate for areas 
+       	   receiving fertilizer in the Monona watershed (kg/ha)
+COLUMN 72: 90th percentile of fertilizer P application rate for areas 
+       	   receiving fertilizer in the Monona watershed (kg/ha)
+COLUMN 73: Total manure P applied in the Waubesa watershed (kg)
+COLUMN 74: Total fertilizer P applied in the Waubesa watershed (kg)
+COLUMN 75: Mean manure P application rate for areas receiving manure 
+       	   in the Waubesa watershed (kg/ha)
+COLUMN 76: Median manure P application rate for areas 
+       	   receiving manure in the Waubesa watershed (kg/ha)
+COLUMN 77: 25th percentile of manure P application rate for areas 
+       	   receiving manure in the Waubesa watershed (kg/ha)
+COLUMN 78: 75th percentile of manure P application rate for areas 
+       	   receiving manure in the Waubesa watershed (kg/ha)
+COLUMN 79: 90th percentile of manure P application rate for areas 
+       	   receiving manure in the Waubesa watershed (kg/ha)
+COLUMN 80: Mean fertilizer P application rate for areas receiving fertilizer
+       	   in the Waubesa watershed (kg/ha)
+COLUMN 81: Median fertilizer P application rate for areas 
+       	   receiving fertilizer in the Waubesa watershed (kg/ha)
+COLUMN 82: 25th percentile of fertilizer P application rate for areas 
+       	   receiving fertilizer in the Waubesa watershed (kg/ha)
+COLUMN 83: 75th percentile of fertilizer P application rate for areas 
+       	   receiving fertilizer in the Waubesa watershed (kg/ha)
+COLUMN 84: 90th percentile of fertilizer P application rate for areas 
+       	   receiving fertilizer in the Waubesa watershed (kg/ha)
+COLUMN 85: Total manure P applied in the Kegonsa watershed (kg)
+COLUMN 86: Total fertilizer P applied in the Kegonsa watershed (kg)
+COLUMN 87: Mean manure P application rate for areas receiving manure 
+       	   in the Kegonsa watershed (kg/ha)
+COLUMN 88: Median manure P application rate for areas 
+       	   receiving manure in the Kegonsa watershed (kg/ha)
+COLUMN 89: 25th percentile of manure P application rate for areas 
+       	   receiving manure in the Kegonsa watershed (kg/ha)
+COLUMN 90: 75th percentile of manure P application rate for areas 
+       	   receiving manure in the Kegonsa watershed (kg/ha)
+COLUMN 91: 90th percentile of manure P application rate for areas 
+       	   receiving manure in the Kegonsa watershed (kg/ha)
+COLUMN 92: Mean fertilizer P application rate for areas receiving fertilizer
+       	   in the Kegonsa watershed (kg/ha)
+COLUMN 93: Median fertilizer P application rate for areas 
+       	   receiving fertilizer in the Kegonsa watershed (kg/ha)
+COLUMN 94: 25th percentile of fertilizer P application rate for areas 
+       	   receiving fertilizer in the Kegonsa watershed (kg/ha)
+COLUMN 95: 75th percentile of fertilizer P application rate for areas 
+       	   receiving fertilizer in the Kegonsa watershed (kg/ha)
+COLUMN 96: 90th percentile of fertilizer P application rate for areas 
+       	   receiving fertilizer in the Kegonsa watershed (kg/ha)
+COLUMN 97: Annual snowfall averaged over the Mendota watershed (m)
+COLUMN 98: Mean monthly snowfall in meteorological winter averaged
+       	   over the Mendota watershed (m). Note that this variable may
+	   be poorly represented due to simplified snow model in AgroIBIS.
+COLUMN 99: Max monthly snowfall in meteorological winter averaged
+       	   over the Mendota watershed (m). Note that this variable may
+	   be poorly represented due to simplified snow model in AgroIBIS.
+COLUMN 100: Annual snowfall averaged over the Monona watershed (m)
+COLUMN 101: Mean monthly snowfall in meteorological winter averaged
+       	   over the Mononaa watershed (m). Note that this variable may
+	   be poorly represented due to simplified snow model in AgroIBIS.
+COLUMN 102: Max monthly snowfall in meteorological winter averaged
+       	   over the Monona watershed (m). Note that this variable may
+	   be poorly represented due to simplified snow model in AgroIBIS.
+COLUMN 103: Annual snowfall averaged over the Waubesa watershed (m)
+COLUMN 104: Mean monthly snowfall in meteorological winter averaged
+       	   over the Waubesa watershed (m). Note that this variable may
+	   be poorly represented due to simplified snow model in AgroIBIS.
+COLUMN 105: Max monthly snowfall in meteorological winter averaged
+       	   over the Waubesa watershed (m). Note that this variable may
+	   be poorly represented due to simplified snow model in AgroIBIS.
+COLUMN 106: Annual snowfall averaged over the Kegonsa watershed (m)
+COLUMN 107: Mean monthly snowfall in meteorological winter averaged
+       	   over the Kegonsa watershed (m). Note that this variable may
+	   be poorly represented due to simplified snow model in AgroIBIS.
+COLUMN 108: Max monthly snowfall in meteorological winter averaged
+       	   over the Kegonsa watershed (m). Note that this variable may
+	   be poorly represented due to simplified snow model in AgroIBIS.
+COLUMN 109: Annual runoff in the Mendota watershed (mm). 
+COLUMN 110: Max daily runoff in the Mendota watershed (mm).
+COLUMN 111: 95th percentile of daily runoff in the Mendota watershed (mm). 
+COLUMN 112: Number of days with runoff exceeding 10mm in the Mendota watershed.
+COLUMN 113: Annual runoff in the Monona watershed (mm). 
+COLUMN 114: Max daily runoff in the Monona watershed (mm).
+COLUMN 115: 95th percentile of daily runoff in the Monona watershed (mm). 
+COLUMN 116: Number of days with runoff exceeding 10mm in the Monona watershed.
+COLUMN 117: Annual runoff in the Waubesa watershed (mm). 
+COLUMN 118: Max daily runoff in the Waubesa watershed (mm).
+COLUMN 119: 95th percentile of daily runoff in the Waubesa watershed (mm). 
+COLUMN 120: Number of days with runoff exceeding 10mm in the Waubesa watershed.
+COLUMN 121: Annual runoff in the Kegonsa watershed (mm). 
+COLUMN 122: Max daily runoff in the Kegonsa watershed (mm).
+COLUMN 123: 95th percentile of daily runoff in the Kegonsa watershed (mm). 
+COLUMN 124: Number of days with runoff exceeding 10mm in the Kegonsa watershed.
+COLUMN 125: Soil "test" P on 31 Oct, in the top 2.5cm, Mendota watershed (ppm). 
+COLUMN 126: Soil "test" P on 31 Oct, in the top 2.5cm, Monona watershed (ppm). 
+COLUMN 127: Soil "test" P on 31 Oct, in the top 2.5cm, Waubesa watershed (ppm). 
+COLUMN 128: Soil "test" P on 31 Oct, in the top 2.5cm, Kegonsa watershed (ppm). 
+COLUMN 129: Annual DRP yield, Mendota watershed (kg/ha). 
+COLUMN 130: Annual sediment P yield, Mendota watershed (kg/ha)
+COLUMN 131: Total P yield, Mendota watershed (kg/ha)
+COLUMN 132: Annual DRP yield, Monona watershed (kg/ha). 
+COLUMN 133: Annual sediment P yield, Monona watershed (kg/ha)
+COLUMN 134: Total P yield, Monona watershed (kg/ha)
+COLUMN 135: Annual DRP yield, Waubesa watershed (kg/ha). 
+COLUMN 136: Annual sediment P yield, Waubesa watershed (kg/ha)
+COLUMN 137: Total P yield, Waubesa watershed (kg/ha)
+COLUMN 138: Annual DRP yield, Kegonsa watershed (kg/ha). 
+COLUMN 139: Annual sediment P yield, Kegonsa watershed (kg/ha)
+COLUMN 140: Total P yield, Kegonsa watershed (kg/ha)
+COLUMN 141: Direct drainage load to lake Mendota (kg/y)
+COLUMN 142: Direct drainage load to lake Monona (kg/y)
+COLUMN 143: Direct drainage load to lake Waubesa (kg/y)
+COLUMN 144: Direct drainage load to lake Kegonsa (kg/y)
+COLUMN 145: Dissolved P load to lake Mendota (kg/y)
+COLUMN 146: Dissolved P load to lake Monona (kg/y)
+COLUMN 147: Dissolved P load to lake Waubesa (kg/y)
+COLUMN 148: Dissolved P load to lake Kegonsa (kg/y)
+COLUMN 149: Sediment P load to lake Mendota (kg/y)
+COLUMN 150: Sediment P load to lake Monona (kg/y)
+COLUMN 151: Sediment P load to lake Waubesa (kg/y)
+COLUMN 152: Sediment P load to lake Kegonsa (kg/y)
+COLUMN 153: Number of 2-day prec events exceeding 20mm
+COLUMN 154: Number of 2-day prec events exceeding 40mm
+COLUMN 155: Number of 2-day prec events exceeding 60mm
+COLUMN 156: Number of 5-day prec events exceeding 20mm
+COLUMN 157: Number of 5-day prec events exceeding 40mm
+COLUMN 158: Number of 5-day prec events exceeding 60mm
+COLUMN 159: Number of 10-day prec events exceeding 30mm
+COLUMN 160: Number of 10-day prec events exceeding 50mm
+COLUMN 161: Number of 10-day prec events exceeding 70mm
+COLUMN 162: 90th percentile precip for 1-day events (mm)
+COLUMN 163: 90th percentile precip for 2-day events (mm)
+COLUMN 164: 90th percentile precip for 3-day events (mm)
+COLUMN 165: 90th percentile precip for 5-day events (mm)
+COLUMN 166: 90th percentile precip for 7-day events (mm)
+COLUMN 167: 75th percentile precip for 1-day events (mm)
+COLUMN 168: 75th percentile precip for 2-day events (mm)
+COLUMN 169: 75th percentile precip for 3-day events (mm)
+COLUMN 170: 75th percentile precip for 5-day events (mm)
+COLUMN 171: 75th percentile precip for 7-day events (mm)
+
